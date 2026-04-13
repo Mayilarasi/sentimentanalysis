@@ -189,9 +189,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Sentiment Analysis LSTM Model
-- Created: 2026
-- Repository: https://github.com/Mayilarasi/sentimentanalysis
+Mayilarasi V
 
 ## References
 
